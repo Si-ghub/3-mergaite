@@ -1,9 +1,10 @@
-#Procesas
+# Procesas
 
 - [X] pradine failu struktura V
     - index.html
     - .gitignore
-- [ ] README.md
+- [X] paviesinti projekta per Github 
+- [X] README.md
     - skirta aprasyti kas, ka ir kodel dar
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
@@ -18,7 +19,7 @@
 - [ ] susikurti readme.md faila
 - [ ] paviesinti projekta per github page (gausim URL)
 
-#Pasiskaitymui
+# Pasiskaitymui
 https://guides.github.com/features/mastering-markdown/
 
 apie cia naudojama rasymo sintakse (markdown)
