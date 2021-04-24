@@ -18,6 +18,11 @@
   - turinys t.b centre
   - pagrindinis plotis t.b fiksuotas
   - stiliu (CSS) atskirti nuo HTML
+# HTML/CSS rasymo strategija
+- israsyti kiek imanoma (isivaizduojama) HTML
+- issirasyti CSS selektorius (selector)
+- pradedant nuo labiausiaia tevinio (is virsaus) selektoriaus, surasome reikiamus stilius (body-header-main)
+- REPEAT - go to step 1
 - [ ] susikurti README.md faila
 - [ ] paviesinti projekta per Github Pages (gausim URL)
 
