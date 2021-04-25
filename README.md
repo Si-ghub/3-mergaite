@@ -7,7 +7,7 @@
 
 _28 group website project_
 
-My first ever front-end project. First week - first project...
+This project is for educational porpuses only. My first ever front-end project. First week - first project...
 
 Site published at https://Si-ghub.github.io/3-mergaite/
 
