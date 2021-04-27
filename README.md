@@ -11,7 +11,7 @@ This project is for educational porpuses only. My first ever front-end project. 
 
 Site published at: https://Si-ghub.github.io/3-mergaite/
 
-Design:[Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 
 ## Project features
